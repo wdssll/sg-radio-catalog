@@ -1,0 +1,159 @@
+{
+  "version": 2026110601,
+  "updated_at": "2026-11-06",
+  "name": "SG Radio Drive Catalog",
+  "categories": [
+    "English",
+    "Mandarin",
+    "News",
+    "Classical",
+    "Malay",
+    "Tamil"
+  ],
+  "stations": [
+    {
+      "id": "c95",
+      "name": "CLASS 95",
+      "subtitle": "English contemporary hits",
+      "category": "English",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac",
+      "colorHex": "#af001f",
+      "isFavorite": true
+    },
+    {
+      "id": "yes933",
+      "name": "YES 933",
+      "subtitle": "顶尖流行音乐台 • Mandarin Pop Hits",
+      "category": "Mandarin",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC.aac",
+      "colorHex": "#e05638",
+      "isFavorite": true
+    },
+    {
+      "id": "p987",
+      "name": "987 FM",
+      "subtitle": "Singapore's #1 Hit Music Station",
+      "category": "English",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac",
+      "colorHex": "#b00068",
+      "isFavorite": true
+    },
+    {
+      "id": "cna938",
+      "name": "CNA938",
+      "subtitle": "Breaking news, analysis & in-depth talk",
+      "category": "News",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/938NOWAAC.aac",
+      "colorHex": "#c2185b",
+      "isFavorite": false
+    },
+    {
+      "id": "ufm1003",
+      "name": "UFM 100.3",
+      "subtitle": "生活节奏，动听音乐 • SPH Media",
+      "category": "Mandarin",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac",
+      "colorHex": "#ea580c",
+      "isFavorite": false
+    },
+    {
+      "id": "love972",
+      "name": "LOVE 972",
+      "subtitle": "最爱频道，轻松快乐 • Mandarin Favourites",
+      "category": "Mandarin",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FMAAC.aac",
+      "colorHex": "#7c3aed",
+      "isFavorite": false
+    },
+    {
+      "id": "g905",
+      "name": "GOLD 905",
+      "subtitle": "Sounds good, feels good • Classic hits",
+      "category": "English",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC.aac",
+      "colorHex": "#b45309",
+      "isFavorite": false
+    },
+    {
+      "id": "cap958",
+      "name": "CAPITAL 958",
+      "subtitle": "城市频道 • Mandarin news & finance",
+      "category": "Mandarin",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC.aac",
+      "colorHex": "#0284c7",
+      "isFavorite": false
+    },
+    {
+      "id": "hao963",
+      "name": "96.3 好FM",
+      "subtitle": "好歌，好时光 • SPH Media Mandarin Classics",
+      "category": "Mandarin",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac",
+      "colorHex": "#059669",
+      "isFavorite": false
+    },
+    {
+      "id": "kiss92",
+      "name": "Kiss92",
+      "subtitle": "All the Great Songs in One Place • SPH Media",
+      "category": "English",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac",
+      "colorHex": "#db2777",
+      "isFavorite": false
+    },
+    {
+      "id": "onefm913",
+      "name": "ONE FM 91.3",
+      "subtitle": "Real Music • SPH Media",
+      "category": "English",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913AAC.aac",
+      "colorHex": "#2563eb",
+      "isFavorite": false
+    },
+    {
+      "id": "sym924",
+      "name": "SYMPHONY 924",
+      "subtitle": "Only classical music station in Singapore",
+      "category": "Classical",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924AAC.aac",
+      "colorHex": "#0d9488",
+      "isFavorite": false
+    },
+    {
+      "id": "ria897",
+      "name": "RIA 897",
+      "subtitle": "Muzik Terbaik • Contemporary Malay Hits",
+      "category": "Malay",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac",
+      "colorHex": "#d97706",
+      "isFavorite": false
+    },
+    {
+      "id": "warna942",
+      "name": "WARNA 942",
+      "subtitle": "Malay favourites & community news",
+      "category": "Malay",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac",
+      "colorHex": "#10b981",
+      "isFavorite": false
+    },
+    {
+      "id": "oli968",
+      "name": "OLI 968",
+      "subtitle": "Vibrant Tamil music, infotainment & culture",
+      "category": "Tamil",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac",
+      "colorHex": "#f59e0b",
+      "isFavorite": false
+    },
+    {
+      "id": "bbc_ws",
+      "name": "BBC World Service",
+      "subtitle": "International news, analysis & documentaries",
+      "category": "News",
+      "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+      "colorHex": "#1d4ed8",
+      "isFavorite": false
+    }
+  ]
+}
